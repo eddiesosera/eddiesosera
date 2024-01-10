@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Eddie Sosera
-Final-year designer and second-year developer with a passion for crafting web and mobile applications. Enthusiastic about creating elegant and user-centric digital experiences that seamlessly blend design and code. Exploring the endless possibilities of the tech world while constantly expanding my skills. Check out my GitHub for a glimpse into my journey through the world of design and development.
+Final-year designer and second-year developer with a passion for crafting web and mobile applications. Enthusiastic about creating elegant and user-centric digital experiences that seamlessly blend design and code.
 
 <div>
 <a href="https://github.com/eddiesosera/github-profile-views-counter">
