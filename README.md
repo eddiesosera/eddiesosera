@@ -12,6 +12,3 @@ Final-year designer and second-year developer with a passion for crafting web an
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
    </div>
-
-
-<a href="https://github.com/eddiesosera/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/eddiesosera/awesome-github-profile-readme" alt="Stars Badge"/></a>
