@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddiesosera&label=Profile%20views&color=0e75b6&style=flat" alt="eddiesosera" /> </p>
 
-- 🌱 I’m currently learning **c#**
-
 - 👯 I’m looking to collaborate on **anything I may find intriguing**
 
 <p align="left">
