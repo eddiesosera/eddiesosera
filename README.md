@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddiesosera&label=Profile%20views&color=0e75b6&style=flat" alt="eddiesosera" /> </p>
 
-- 🔭 I’m currently working on **mobile apps**
-
 - 🌱 I’m currently learning **c#**
 
 - 👯 I’m looking to collaborate on **anything I may find intriguing**
-
-- 👨‍💻 All of my projects are available at [pinned](pinned)
-
-- 💬 Ask me about **react, google maps sdk and three.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
