@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm eddie</h1>
-<h3 align="center">self-driven</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddiesosera&label=Profile%20views&color=0e75b6&style=flat" alt="eddiesosera" /> </p>
 
