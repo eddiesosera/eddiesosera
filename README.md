@@ -6,7 +6,6 @@
 
 - 👯 I’m looking to collaborate on **anything I may find intriguing**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
