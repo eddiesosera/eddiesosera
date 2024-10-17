@@ -2,7 +2,7 @@
 
 <p><img align="center" src="https://github.com/eddiesosera/eddiesosera/blob/main/eddie-github.png" alt="Eddies' Github banner" /></p>
 
-- 👯 I’m looking to collaborate on **anything I find intriguing**
-- ✉️ eddiesosera@gmail.com
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiesosera&" alt="eddiesosera" /></p>
+
+* 👯 I’m open to collaborating or contributing.
+* ✉️ eddiesoserawork@gmail.com
