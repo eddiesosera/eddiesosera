@@ -5,4 +5,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiesosera&" alt="eddiesosera" /></p>
 
 * 👯 I’m open to collaborating or contributing.
+* 🚀 Always exploring new library components. (A good library does half the job)
 * ✉️ eddiesoserawork@gmail.com
