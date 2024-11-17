@@ -13,9 +13,9 @@
 ---
 
 ### 👋 About Me
-- 👨‍💻 **Developer & Explorer** | Always on a quest for efficient code and seamless experiences.
+- 👨‍💻 **Developer & Explorer** | Always on a quest for something new.
 - 🎨 **Creative Thinker** | Believe in merging design and code to make ideas come to life.
-- 🚀 Always exploring new library components. *(A good library does half the job)*
+- 🚀 Always exploring new library components. *(A good library does half the job - eddie)*
 
 ### 💼 Let's Collaborate
 - **👯 I’m open to collaborating or contributing on exciting projects.**
@@ -31,7 +31,7 @@
 ---
 
 ### ⚡ Fun Facts
-- 🎶 I enjoy creating music digitally.
+- 🎶 I enjoy composing music digitally.
 - ✨ I appreciate thoughtful design and efficient coding.
 
 ---
@@ -43,12 +43,12 @@
 </p>
 
 ### 🏆 Achievements
-- 🌟 **Featured Projects:** `ProjectName1`, `ProjectName2`
+- 🌟 **Featured Project(s):** `Spectrastem`
 - 🏅 Nominated for **Pangolins award** with projects like *Skate 360*, *DB Hunt*, *Elementum*, and *Spectrastem*.
 
 ---
 
 ### 🖥️ Current Focus
-1. Working on **[Project1](https://github.com/eddiesosera/Project1)** - a web app that enhances the music experience.
+1. Working on **[Spectrastem](https://github.com/eddiesosera/spectrastem-frontend)** - a web app to isolate audio stems and extract midi sequence.
 2. Exploring **AI applications in social and music spaces.**
-3. Continuing to refine **Spectrastem**, a project nominated for awards.
+3. Continuing to refine **Spectrastem**.
