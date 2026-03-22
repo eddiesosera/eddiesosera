@@ -42,6 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiesosera&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-### Achievements
-- **Featured Project(s):** `Spectrastem`
-- Nominated for **Pangolins award** with projects like *Skate 360*, *DB Hunt*, *Elementum*, and *Spectrastem*.
